@@ -34,6 +34,7 @@ public class Calc
 
 		public static void calcMenu()
 			{
+				System.out.println("Github Gang");
 
 				System.out.println("What would you like to do?" + "\n" + "1) Add" + "\n" + "2) Subtract" + "\n"
 						+ "3) Multiply" + "\n" + "4) Divide" + "\n" + "5) Powers");
